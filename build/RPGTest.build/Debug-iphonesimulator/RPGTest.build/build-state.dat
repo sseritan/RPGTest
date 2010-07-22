@@ -1,0 +1,256 @@
+TRPGTest
+v7
+r0
+t301525352.435874
+cCheck dependencies
+cProcessInfoPlistFile /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/Info.plist RPGTest-Info.plist
+cCompileXIB /Users/stefan/Documents/Projects/RPGTest/MainWindow.xib
+cCompileXIB /Users/stefan/Documents/Projects/RPGTest/RPGTestViewController.xib
+cProcessPCH /var/folders/1h/1h5cJQFSG00n0s36-Vr7MU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RPGTest_Prefix-fgwhzdswkonnarepqhnkhdwvzgxd/RPGTest_Prefix.pch.gch RPGTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/main.o /Users/stefan/Documents/Projects/RPGTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/RPGTestAppDelegate.o /Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/RPGTestViewController.o /Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/RPGTest normal i386
+cGenerateDSYMFile /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app.dSYM /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/RPGTest
+cTouch /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C2B96270000000000000132
+t1277924903
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestAppDelegate.h
+c000000004C48B1D500000000000001D9
+t1279832533
+s473
+i<UIKit/UIKit.h>
+
+N/Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestAppDelegate.m
+c000000004C48B1D50000000000000A85
+t1279832533
+s2693
+i"RPGTestAppDelegate.h"
+i"RPGTestViewController.h"
+
+N/Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestViewController.h
+c000000004C48B1D500000000000000E8
+t1279832533
+s232
+i<UIKit/UIKit.h>
+
+N/Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestViewController.m
+c000000004C48B1D500000000000005B3
+t1279832533
+s1459
+i"RPGTestViewController.h"
+
+N/Users/stefan/Documents/Projects/RPGTest/MainWindow.xib
+c000000004C48B1D50000000000004E29
+t1279832533
+s20009
+
+N/Users/stefan/Documents/Projects/RPGTest/RPGTestViewController.xib
+c000000004C48B1D50000000000001A45
+t1279832533
+s6725
+
+N/Users/stefan/Documents/Projects/RPGTest/RPGTest_Prefix.pch
+c000000004C48B1D500000000000000B7
+t1279832533
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app
+t1279832552
+s238
+
+N/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app.dSYM
+t1279832552
+s102
+
+N/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/Info.plist
+t1279832547
+s591
+
+N/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/MainWindow.nib
+t1279832550
+s1123
+
+N/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/PkgInfo
+t1279832547
+s8
+
+N/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/RPGTest
+t1279832552
+s17080
+
+N/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/RPGTestViewController.nib
+t1279832550
+s795
+
+N/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/RPGTest.LinkFileList
+c000000004C48B1E30000000000000193
+t1279832547
+s403
+
+N/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/RPGTestAppDelegate.o
+t1279832552
+s47736
+
+N/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/RPGTestViewController.o
+t1279832552
+s34400
+
+N/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/main.o
+t1279832551
+s6308
+
+N/Users/stefan/Documents/Projects/RPGTest/main.m
+c000000004C48B1D50000000000000163
+t1279832533
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/1h/1h5cJQFSG00n0s36-Vr7MU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RPGTest_Prefix-fgwhzdswkonnarepqhnkhdwvzgxd/RPGTest_Prefix.pch.gch
+t1279832551
+s15232016
+
+NRPGTest-Info.plist
+c000000004C48B1D5000000000000038D
+t1279832533
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301525346#301525347#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/RPGTestAppDelegate.o /Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301525351.601327
+e301525352.045131
+r1
+xCompileC
+xbuild/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/RPGTestAppDelegate.o
+x/Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestAppDelegate.m301525351#301525352#0(0"0(0#0#69"/Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestAppDelegate.m8608244256#1959"    cd /Users/stefan/Documents/Projects/RPGTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-generated-files.hmap -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-own-target-headers.hmap -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-all-target-headers.hmap -iquote /Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-project-headers.hmap -F/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator -I/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/include -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/DerivedSources/i386 -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/DerivedSources -include /var/folders/1h/1h5cJQFSG00n0s36-Vr7MU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RPGTest_Prefix-fgwhzdswkonnarepqhnkhdwvzgxd/RPGTest_Prefix.pch -c /Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestAppDelegate.m -o /Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/RPGTestAppDelegate.o0#
+
+CCompileC build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/RPGTestViewController.o /Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301525351.923842
+e301525352.045416
+r1
+xCompileC
+xbuild/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/RPGTestViewController.o
+x/Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestViewController.m301525351#301525352#0(0"0(0#0#72"/Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestViewController.m8608239552#1965"    cd /Users/stefan/Documents/Projects/RPGTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-generated-files.hmap -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-own-target-headers.hmap -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-all-target-headers.hmap -iquote /Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-project-headers.hmap -F/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator -I/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/include -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/DerivedSources/i386 -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/DerivedSources -include /var/folders/1h/1h5cJQFSG00n0s36-Vr7MU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RPGTest_Prefix-fgwhzdswkonnarepqhnkhdwvzgxd/RPGTest_Prefix.pch -c /Users/stefan/Documents/Projects/RPGTest/Classes/RPGTestViewController.m -o /Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/RPGTestViewController.o0#
+
+CCompileC build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/main.o /Users/stefan/Documents/Projects/RPGTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301525351.600154
+e301525351.923585
+r1
+xCompileC
+xbuild/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/main.o
+x/Users/stefan/Documents/Projects/RPGTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/stefan/Documents/Projects/RPGTest/main.m301525351#301525351#0(0"0(0#0#47"/Users/stefan/Documents/Projects/RPGTest/main.m8607416320#1923"    cd /Users/stefan/Documents/Projects/RPGTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-generated-files.hmap -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-own-target-headers.hmap -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-all-target-headers.hmap -iquote /Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-project-headers.hmap -F/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator -I/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/include -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/DerivedSources/i386 -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/DerivedSources -include /var/folders/1h/1h5cJQFSG00n0s36-Vr7MU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RPGTest_Prefix-fgwhzdswkonnarepqhnkhdwvzgxd/RPGTest_Prefix.pch -c /Users/stefan/Documents/Projects/RPGTest/main.m -o /Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/stefan/Documents/Projects/RPGTest/MainWindow.xib
+s301525347.121680
+e301525350.118788
+r1
+xCompileXIB
+x/Users/stefan/Documents/Projects/RPGTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib301525347#301525350#0(0"0(0#0#55"/Users/stefan/Documents/Projects/RPGTest/MainWindow.xib8608093824#576"    cd /Users/stefan/Documents/Projects/RPGTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/MainWindow.nib /Users/stefan/Documents/Projects/RPGTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/stefan/Documents/Projects/RPGTest/RPGTestViewController.xib
+s301525347.141719
+e301525350.109967
+r1
+xCompileXIB
+x/Users/stefan/Documents/Projects/RPGTest/RPGTestViewController.xib
+lSLF07#2@36"CompileXIB RPGTestViewController.xib301525347#301525350#0(0"0(0#0#66"/Users/stefan/Documents/Projects/RPGTest/RPGTestViewController.xib8607442272#598"    cd /Users/stefan/Documents/Projects/RPGTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/RPGTestViewController.nib /Users/stefan/Documents/Projects/RPGTest/RPGTestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app.dSYM /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/RPGTest
+s301525352.325106
+e301525352.399976
+r1
+xGenerateDSYMFile
+x/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app.dSYM
+x/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/RPGTest
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/RPGTest.app.dSYM build/Debug-iphonesimulator/RPGTest.app/RPGTest301525352#301525352#0(0"0(0#0#88"/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/RPGTest8607154464#389"    cd /Users/stefan/Documents/Projects/RPGTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/RPGTest -o /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app.dSYM0#
+
+CLd /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/RPGTest normal i386
+s301525352.045488
+e301525352.324991
+r1
+xLd
+x/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/RPGTest
+xnormal
+xi386
+lSLF07#2@93"Link /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/RPGTest301525352#301525352#0(0"0(0#0#0"8608425920#910"    cd /Users/stefan/Documents/Projects/RPGTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator -F/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator -filelist /Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/Objects-normal/i386/RPGTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/RPGTest0#
+
+CProcessInfoPlistFile /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/Info.plist RPGTest-Info.plist
+s301525347.090506
+e301525347.121564
+r1
+xProcessInfoPlistFile
+x/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/Info.plist
+xRPGTest-Info.plist
+lSLF07#2@26"Process RPGTest-Info.plist301525347#301525347#0(0"0(0#0#59"/Users/stefan/Documents/Projects/RPGTest/RPGTest-Info.plist31525648366108776#485"    cd /Users/stefan/Documents/Projects/RPGTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RPGTest-Info.plist -genpkginfo /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app/Info.plist0#
+
+CProcessPCH /var/folders/1h/1h5cJQFSG00n0s36-Vr7MU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RPGTest_Prefix-fgwhzdswkonnarepqhnkhdwvzgxd/RPGTest_Prefix.pch.gch RPGTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s301525350.119065
+e301525351.600045
+r1
+xProcessPCH
+x/var/folders/1h/1h5cJQFSG00n0s36-Vr7MU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RPGTest_Prefix-fgwhzdswkonnarepqhnkhdwvzgxd/RPGTest_Prefix.pch.gch
+xRPGTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile RPGTest_Prefix.pch301525350#301525351#0(0"0(0#0#59"/Users/stefan/Documents/Projects/RPGTest/RPGTest_Prefix.pch8608792672#1813"    cd /Users/stefan/Documents/Projects/RPGTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-generated-files.hmap -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-own-target-headers.hmap -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-all-target-headers.hmap -iquote /Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/RPGTest-project-headers.hmap -F/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator -I/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/include -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/DerivedSources/i386 -I/Users/stefan/Documents/Projects/RPGTest/build/RPGTest.build/Debug-iphonesimulator/RPGTest.build/DerivedSources -c /Users/stefan/Documents/Projects/RPGTest/RPGTest_Prefix.pch -o /var/folders/1h/1h5cJQFSG00n0s36-Vr7MU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RPGTest_Prefix-fgwhzdswkonnarepqhnkhdwvzgxd/RPGTest_Prefix.pch.gch0#
+
+CTouch /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app
+s301525352.400080
+e301525352.435806
+r1
+xTouch
+x/Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app
+lSLF07#2@86"Touch /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app301525352#301525352#0(0"0(0#0#0"8600914144#282"    cd /Users/stefan/Documents/Projects/RPGTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/stefan/Documents/Projects/RPGTest/build/Debug-iphonesimulator/RPGTest.app0#
+
